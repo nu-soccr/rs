@@ -1,12 +1,12 @@
 [
     {
-        "name": "Github",
-        "link": "https://github.com/zerostaticthemes/hugo-serif-theme",
-        "image": "images/social/github.svg"
+        "name": "Facebook",
+        "link": "https://www.facebook.com/profile.php?id=100071251051563",
+        "image": "images/social/facebook.png"
     },
     {
-        "name": "Twitter",
-        "link": "https://twitter.com/zerostaticio",
-        "image": "images/social/twitter.svg"
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/company/regenerativeshift",
+        "image": "images/social/linkedin.png"
     }
 ]
